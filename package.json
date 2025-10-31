@@ -70,7 +70,7 @@
         "sharp": "^0.29.1",
         "sitemap": "^7.0.0",
         "swagger-ui-express": "^4.1.6",
-        "typeorm": "^0.2.37",
+        "typeorm": "^0.3.26",
         "url": "^0.11.0",
         "uuid": "^8.3.2",
         "validator": "^13.7.0",
